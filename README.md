@@ -1,4 +1,4 @@
-# Dextermania: the game
+# Dextermania: The Game
 
 My second unity game based around dexter. It's about dexter's rise to the top to save rita as he meets all kinds of wacky characters.
 This project took ten weeks.
